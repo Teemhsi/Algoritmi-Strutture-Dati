@@ -1,4 +1,4 @@
-#PROVA FINALE DI ALGORITMI E STRUTTURE DATI#
+# PROVA FINALE DI ALGORITMI E STRUTTURE DATI
 
 Progetto di Ingegneria Informatica per il corso di "ALGORITMI E STRUTTURE DATI" al Politecnico di Milano, Anno Accademico 2022/2023, Voto: 30/30 e Lode.
 
